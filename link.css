@@ -46,3 +46,9 @@
     border-radius: 10px;
     box-shadow: 5px 5px 15px lightgrey;
 }
+#subscribe{
+    height: 300px;
+}
+.footer{
+    text-align: center;
+}
